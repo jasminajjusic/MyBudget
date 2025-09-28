@@ -37,10 +37,9 @@ It helps users track expenses and income, set category limits, and manage recurr
 ---
 
 ##  Screenshots
+https://www.figma.com/design/ePkDTiwM1Uf4oSEwAAXrHL/CashSavvy?node-id=0-1&p=f&t=xidUCx2aRn437iV7-0
 
 
 
----
 
-## 📂 Project Structure
 
