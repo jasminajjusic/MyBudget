@@ -1,4 +1,4 @@
-# 💰 MyBudget
+#  MyBudget
 
 MyBudget is a personal budgeting app built with **Flutter** and **Cubit (BLoC)** for state management.  
 It helps users track expenses and income, set category limits, and manage recurring payments — all with secure local storage.
@@ -36,13 +36,13 @@ It helps users track expenses and income, set category limits, and manage recurr
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 Here is an example of the app:
 
 ![App Screenshot](assets/icons/mybudget.png)
 
-👉 More  screens are available on the following Figma link:  
+ More  screens are available on the following Figma link:  
 [Figma Project Link](https://www.figma.com/design/ePkDTiwM1Uf4oSEwAAXrHL/CashSavvy?node-id=0-1&p=f&t=xidUCx2aRn437iV7-0)
 
 
